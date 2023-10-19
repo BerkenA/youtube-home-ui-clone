@@ -36,6 +36,10 @@ ul {
     color: white;
 }
 
+main ul li i {
+    padding-right: 16px;
+}
+
 #submit {
     border-radius: 16px;
     background-color: black;
